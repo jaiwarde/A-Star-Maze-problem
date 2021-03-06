@@ -1,13 +1,5 @@
 
 
-// ==== Starter World =================================================================================================
-// This code is designed for use on the Ancient Brain site.
-// This code may be freely copied and edited by anyone on the Ancient Brain site.
-// To include a working run of this program on another site, see the "Embed code" links provided on Ancient Brain.
-// ====================================================================================================================
-
-
-
 // =============================================================================================
 // More complex starter World 
 // 3d-effect Maze World (really a 2-D problem)
