@@ -1,10 +1,6 @@
 
 
 // ============================================================================================
-// More complex starter World 
-// 3d-effect Maze World (really a 2-D problem)
-// Movement is on a semi-visible grid of squares 
-//
 // This more complex World shows:
 // - Skybox
 // - Internal maze (randomly drawn each time)
